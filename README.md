@@ -1,6 +1,6 @@
 # git-branching
 
-In main.py is a simple function to print my name and others in my family. 
+In main.py is a simple function to print my name and the type of food I like. 
 
 As an instructor I will: 
  - show how to create a new branch
