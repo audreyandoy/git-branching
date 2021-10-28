@@ -4,5 +4,6 @@ def my_function(fname):
 
 my_function("Audrey")
 my_function("Ansel")
+my_function("Sandra")
 
 
