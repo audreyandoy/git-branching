@@ -10,3 +10,5 @@ As an instructor I will:
  - push those changes to github
  - make a pull request
  - merge my branch into the main branch
+
+shoutout to Trenisha for the exercise :) 
